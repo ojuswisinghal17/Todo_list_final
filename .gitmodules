@@ -1,6 +1,6 @@
 [submodule "client"]
     path = client
-    url = https://github.com/ojuswisinghal17/to_do_frontent.git
+    url = https://github.com/ojuswisinghal17/to_do_frontend.git
 
 [submodule "server"]
     path = server
